@@ -5,11 +5,23 @@ Nothing fancy-schmancy
 ## Epic info
 ```JSON
 {
-  "status":"IT student",
-  "text editor":"Neovim",
-  "OS":[ "linux", "windows" ],
-  "job":null,
-  "hobby":[ "anime", "games", "IT itself" ],
-  "learning rn":[ "rust", "c#", "game development", "web development" ],
+    "status": "IT student",
+    "text editor": "Neovim",
+    "OS": [
+        "linux",
+        "windows"
+    ],
+    "job": null,
+    "hobby": [
+        "anime",
+        "games",
+        "IT itself"
+    ],
+    "learning rn": [
+        "rust",
+        "c#",
+        "game development",
+        "web development"
+    ]
 }
 ```
