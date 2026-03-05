@@ -19,9 +19,7 @@ Nothing fancy-schmancy
     ],
     "learning rn": [
         "rust",
-        "c#",
-        "game development",
-        "web development"
+        "zig"
     ]
 }
 ```
